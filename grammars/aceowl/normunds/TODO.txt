@@ -1,0 +1,4 @@
+* Replace Wildlife with a grammar that covers the AceWiki ACEOWL test words
+* Generate with AceWiki ACEOWL all the sentences up to a certain length
+* Parse these generated sentences using the ACEOWL GF grammar
+* Report how many are parsed (and the parsing speed etc.)
